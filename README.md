@@ -3,4 +3,4 @@ this is my first repository
 <br>
 hello man
 <br>
-Author - Aryan sarathe
+Author - Aryan sarathe JI
